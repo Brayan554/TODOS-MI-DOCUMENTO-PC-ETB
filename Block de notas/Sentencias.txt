@@ -1,0 +1,44 @@
+mysql
+ sql server
+
+vistas 
+triggers 
+dml 
+ddl 
+
+sentecnias where alias 
+councat
+count 
+
+vistas 
+etls
+
+
+LOAD DATA LOCAL INFILE '/importfile.csv'
+INTO TABLE test_table
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+(field1, filed2, field3);
+Gabriel Velandia12:45
+CONCAT
+
+and
+or
+
+mysql 
+sql 
+postgret
+sqlSERVE
+MONGO DB 
+colleciones
+ no relacionales 
+
+
+SQL SERVER 
+ETL 
+SQL
+POSTGREST
+
+(Pentaho, Knime) 
+
+ 

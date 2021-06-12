@@ -1,0 +1,11 @@
+Plataformas Preventivo
+
+Unidades remotas    EWSD DLU, AXE EAR  
+
+Msan   HAWE
+Urbas  ERICSON  RSU EAR
+DLU    EWSD
+-----------------------------
+ULTIMA VERSION 
+EAR    AXE       
+RSU    AXE

@@ -1,0 +1,26 @@
+color de visual code 
+dobri next
+
+Extencion Segun el lenguaje Simbolo 
+material icon
+
+cambiar el color de cuantos proyectos tienes abrietos para no confundirte
+peacock
+
+ejecutar color despues de tener el proyecto abrieto
+>peacock: change a favorite to color
+
+
+formatear codigo organizarlo 
+control + m 
+prettier
+
+COMPLETADO DE CODIGO
+PHP ESTELISENT
+
+me permite tener el codigo secuencia para no utilizar la barra para mover hacia los lados en visual code en linea 
+editor.wordWrap
+
+
+
+

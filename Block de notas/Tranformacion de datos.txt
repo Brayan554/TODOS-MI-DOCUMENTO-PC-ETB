@@ -1,0 +1,31 @@
+Knime (Tranformacion de datos)
+
+Cponfiguracion de Nodos
+
+String Manipuleishon 
+Replace (column , )
+Remove 
+
+
+
+Varible string a numerico diferentes numerico double numeric float 
+
+separador de datos 
+
+
+
+pentalo etl
+
+Extraer 
+Tranformar
+load
+
+sql obdc 
+
+
+archivos plano 
+base de datos 
+json 
+
+
+utf-8
